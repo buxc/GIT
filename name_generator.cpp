@@ -4,6 +4,14 @@
 #include <map>
 #include <time.h>
 
+/**
+	Simple random team generate for my friends and me when we get
+	together and play Halo or pitch. Generates 3v3 or 2v2v2.
+
+	@author Vasili Papastrat
+	@version 1.0 5/23/2014
+*/
+
 using namespace std;
 /*
 0 = Vasili
